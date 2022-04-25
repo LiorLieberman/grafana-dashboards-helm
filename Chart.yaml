@@ -1,0 +1,4 @@
+apiVersion: v1
+name: grafana-dashboards
+description: Helm chart to import Grafana Dashboards
+version: 0.1.0
